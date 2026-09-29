@@ -14,6 +14,8 @@ wheels/
 .env
 
 server.db
+server.db-shm
+server.db-wal
 bin/
 test_gemini.py
 test_graph_offline.py
