@@ -1,0 +1,17 @@
+[project]
+name = "customer360"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.141.1",
+    "google-genai>=2.25.0",
+    "groq>=1.7.0",
+    "langchain-core>=1.6.3",
+    "langgraph>=1.2.11",
+    "python-dotenv>=1.2.3",
+    "questionary>=2.1.1",
+    "rich>=15.0.0",
+    "uvicorn>=0.53.0",
+]

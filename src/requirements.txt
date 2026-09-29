@@ -1,0 +1,9 @@
+fastapi>=0.141.1
+uvicorn>=0.53.0
+langgraph>=1.2.11
+langchain-core>=1.6.3
+groq>=1.7.0
+python-dotenv>=1.2.3
+requests
+questionary>=2.1.1
+rich>=15.0.0

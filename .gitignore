@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.conda
+.vscode
+
+.env
+
+server.db
+bin/
+test_gemini.py
+test_graph_offline.py
+list_models.py
+*.zip
+
+src/traces
+
+# OS files
+.DS_Store
+Thumbs.db
+
+midterm

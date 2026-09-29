@@ -1,0 +1,3 @@
+Building AI Agents from scratch - https://youtu.be/bTMPwUgLZf0
+Scraped the idea of having Round Robin from the architecture
+Scraped the idea of having we-frontend - Had difficulty in maintaining separate js scripts for event streaming, HITL requests ; Thought better to have everyting in python, so going to have 3 clients CLI
